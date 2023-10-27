@@ -1,4 +1,5 @@
 # -robot_trading-
+#aluraChallengeRobotTrading
 Este proyecto se trabajo con Python , Numpy , Matplotlib, Web Scraping para detrminar el comportamiento del Bitcoin 
 # - Descripcion del proyecto 
 este proyecto se trabajo como parte del bootcamp de alura latam donde se trabajo de la siguiente en 6 etapas el cual consiste 
