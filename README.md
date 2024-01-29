@@ -1,5 +1,6 @@
 # -robot_trading-
         #aluraChallengeRobotTrading
+![challenge_4](https://github.com/wilferalexander/-robot_trading-/assets/16104315/ad5e07ea-a36b-4da2-bf41-f2c1936ecac5)
 
         https://discord.com/channels/@me/1166083152293412905/1167542608084598854
 
