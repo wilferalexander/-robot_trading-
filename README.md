@@ -1,6 +1,8 @@
 # -robot_trading-
         #aluraChallengeRobotTrading
 
+        https://discord.com/channels/@me/1166083152293412905/1167542608084598854
+
        ![challenge_1](https://github.com/wilferalexander/-robot_trading-/assets/16104315/e61e3664-4fe2-4398-b97c-947957973407)
 
 Este proyecto se trabajo con Python , Numpy , Matplotlib, Web Scraping para detrminar el comportamiento del Bitcoin 
