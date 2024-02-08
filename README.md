@@ -29,3 +29,4 @@ Vamos a contruir un Robot Trading en Python capaz de tomar decisiones de compra 
      y una línea recta que pase sobre el precio medio. Por último, muestra un mensaje en el gráfico que indique “Vender”, “Comprar” o “” según sea la decisión del algoritmo.
 # 6. Automatización:
       Finalmente, ahora que tienes el algoritmo de decisión, es hora de automatizar el proceso. Utiliza la librería de Python "time" para ejecutar el algoritmo de decisión cada 5 minutos y actualizar el gráfico.
+        ![image](https://github.com/wilferalexander/-robot_trading-/assets/16104315/fce2a3be-ba56-418d-b313-2376a3c4bed3)
