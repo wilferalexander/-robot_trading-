@@ -2,6 +2,9 @@
         #aluraChallengeRobotTrading
 ![challenge_4](https://github.com/wilferalexander/-robot_trading-/assets/16104315/ad5e07ea-a36b-4da2-bf41-f2c1936ecac5)
 
+![image](https://github.com/wilferalexander/-robot_trading-/assets/16104315/6f1e016f-58d6-43c5-9f86-bc944ede3c47)
+
+
         https://discord.com/channels/@me/1166083152293412905/1167542608084598854
 
        ![challenge_1](https://github.com/wilferalexander/-robot_trading-/assets/16104315/e61e3664-4fe2-4398-b97c-947957973407)
@@ -29,4 +32,4 @@ Vamos a contruir un Robot Trading en Python capaz de tomar decisiones de compra 
      y una línea recta que pase sobre el precio medio. Por último, muestra un mensaje en el gráfico que indique “Vender”, “Comprar” o “” según sea la decisión del algoritmo.
 # 6. Automatización:
       Finalmente, ahora que tienes el algoritmo de decisión, es hora de automatizar el proceso. Utiliza la librería de Python "time" para ejecutar el algoritmo de decisión cada 5 minutos y actualizar el gráfico.
-        ![image](https://github.com/wilferalexander/-robot_trading-/assets/16104315/fce2a3be-ba56-418d-b313-2376a3c4bed3)
+      
